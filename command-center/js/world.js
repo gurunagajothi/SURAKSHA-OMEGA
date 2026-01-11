@@ -1,5 +1,5 @@
 const statusDiv = document.getElementById("status");
-const countries = ["IN", "US", "UK", "EU"];  // Add more if needed
+const countries = ["IN", "US", "UK", "EU"];
 
 // Fetch SOS status from backend
 async function fetchSOS(country) {
@@ -27,3 +27,4 @@ async function updateDashboard() {
 
 updateDashboard();
 setInterval(updateDashboard, 5000);
+
