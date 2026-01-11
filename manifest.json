@@ -2,7 +2,7 @@
   "id": "/SURAKSHA-OMEGA/",
   "name": "SURAKSHA-OMEGA",
   "short_name": "SURAKSHA",
-  "start_url": "/SURAKSHA-OMEGA/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#d32f2f",
