@@ -1,4 +1,17 @@
 {
+  {
+  "name": "global-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
+
   "name": "suraksha-omega-global-backend",
   "version": "1.0.0",
   "description": "Global SOS backend with UN, Interpol and international emergency routing",
