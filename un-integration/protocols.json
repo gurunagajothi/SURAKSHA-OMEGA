@@ -1,0 +1,10 @@
+{
+  "WOMEN_VIOLENCE": {
+    "level": "RED",
+    "notify": ["UN-WOMEN", "LOCAL-POLICE", "MEDICAL"]
+  },
+  "HUMAN_TRAFFICKING": {
+    "level": "BLACK",
+    "notify": ["UNODC", "INTERPOL"]
+  }
+}
